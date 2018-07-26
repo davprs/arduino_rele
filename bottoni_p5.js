@@ -1,4 +1,4 @@
-var flag = false;
+\"var flag = false;
 var myCanvas;
 var cucina;
 var sala;
@@ -95,4 +95,4 @@ function mouseClicked() {
       window.location.href = "light1of.html";
     }
   }
-}
+}\"
